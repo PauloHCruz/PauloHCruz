@@ -22,6 +22,6 @@
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/PauloHCruz">
-  <img loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloHCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHCruz&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloHCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="42%" loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHCruz&layout=compact&langs_count=7&theme=dark"/>
 </div>
