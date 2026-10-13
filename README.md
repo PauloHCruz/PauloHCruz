@@ -19,7 +19,7 @@
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="FLASK" title="FLASK" width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="FLASK" title="FLASK" width="30px" 
+<img align="left" alt="GIT" title="GIT" width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
           
@@ -31,6 +31,6 @@
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/PauloHCruz">
-  <img width="50%" loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloHCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" loading="lazy" height="200" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=PauloHCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="42%" loading="lazy" height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHCruz&layout=compact&langs_count=7&theme=dark"/>
 </div>
